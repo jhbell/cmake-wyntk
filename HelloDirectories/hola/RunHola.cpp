@@ -1,7 +1,7 @@
 // RunHola.cpp
 
 #include "Hola.h"
-#include "hello/Hello.h"
+#include "Hello.h"
 
 int main() {
     sayHola();
